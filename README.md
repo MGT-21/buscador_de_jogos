@@ -19,19 +19,18 @@ O buscador de jogos também possui reponsividade
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Figma](<https://expo.io/>)
+- [Figma](https://www.figma.com/design/OPDvnNP13ZwEsPyiR1OsP6/Busca-de-jogos?node-id=0-1&t=yH6YWbZqU2wIvo6W-1>)
 - [API](<https://expo.io/>)
-- [Html](<https://pt-br.reactjs.org/>)
-- [Css](<https://pt-br.reactjs.org/>)
-- [JavaScript](<https://expo.io/>)
+- Html
+- Css
+- JavaScript
 
 ## 🛠️ Abrir e rodar o projeto
 
-[Veja e teste o projeto](https://onlinegdb.com/i5--jk8ii) na Vercel.
+[Veja e teste o projeto](https://buscador-de-jogos.vercel.app/) na Vercel.
 
 ## 📚 Mais informações do projeto
 
 O projeto foi feito no intuido de praticar os nossos conhecimentos e ficaremos muito felizes se puder nos dar um feedback e/ou sujestões para amelhoria do projeto 😁
 
-## 📚 Desemvolvedores
 
