@@ -33,4 +33,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 O projeto foi feito no intuido de praticar os nossos conhecimentos e ficaremos muito felizes se puder nos dar um feedback e/ou sujestões para amelhoria do projeto 😁
 
+## 👤 Desenvolvedores 
+
+[GVlira](https://github.com/GVlira) - Front-end
+
+[MGT-21](https://github.com/MGT-21) - Frot-end/design
+
+
+
+
+
+
 
