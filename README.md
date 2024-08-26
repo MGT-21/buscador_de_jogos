@@ -4,7 +4,7 @@ O buscador de jogos foi feito para encontrar aquele jogo que você jogou faz tem
 
 ## 🔨 Funcionalidades do projeto
 
-O projeto funciona com base na API da <a href="https://rawg.io/apidocs">Rawg</a>, que fornece as informações dos jogos e o site exibe alguns dos conteudos fornecidos dentro de cards.
+O projeto funciona com base na API da <a href="https://rawg.io/apidocs">Rawg</a>, que fornece as informações dos jogos e o site exibe alguns dos conteúdos fornecidos dentro de cards.
 
 Os cards contém:
 
@@ -31,7 +31,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📚 Mais informações do projeto
 
-O projeto foi feito no intuido de praticar os nossos conhecimentos e ficaremos muito felizes se puder nos dar um feedback e/ou sujestões para amelhoria do projeto 😁
+O projeto foi feito para pôr em prática os nossos conhecimentos e ficaremos muito felizes se puder nos dar um feedback e/ou sujestões para amelhoria do projeto 😁
 
 ## 👤 Desenvolvedores 
 
