@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Kantumruy+Pro:ital,wght@0,100..700;1,100..700&family=Play:wght@400;700&display=swap');
+
+:root {
+
+/*colors*/
+--bg-color: #1F2930;
+--card-color: #27333F;
+--theme-color: #0071DA;
+--white-color: #fff;
+
+/*fonts*/
+--primary-font: "Play", sans-serif;
+--secundary-font: "Kantumruy Pro", sans-serif;
+
+/*font-weight*/
+--light-font: 300;
+--regular-font: 400;
+--bold-font: 700;
+}
